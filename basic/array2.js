@@ -24,10 +24,20 @@ const realarray = anotherarray.flat (Infinity)
 
 //console.log(Array.from("anu"))
 
-console.log(Array.from({  name: "akanksha"})   )
+//console.log(Array.from({  name: "akanksha"})   )
 
-let score1 = 100
-let score2 = 200
-let score3 = 300
+//let score1 = 100
+//let score2 = 200
+//let score3 = 300
 
-console.log(Array.of(score1, score2, score3));
+//console.log(Array.of(score1, score2, score3));
+
+
+//let abc = [1,4,7]
+//console.log(abc.slice(1))
+
+let lori = [1,4,7,5, [5,9,0], 11,13,14];
+
+console.log(lori.flat(Infinity));
+
+
