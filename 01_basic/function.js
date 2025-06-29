@@ -49,6 +49,25 @@ console.log (loginUserMassage("priya"))
 
 
 
+function login2(username7){
+    if( username7 === undefined){
+
+     return
+
+
+    }
+
+ return `${username7} just login` 
+
+}
+
+console.log (login2 ())
+
+
+
+
+
+
 
 
 
