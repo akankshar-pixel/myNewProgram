@@ -35,5 +35,6 @@ return  getArray[1]
 }
 //console.log(returnSecondvalue (myNewarray))
 
-console.log(returnSecondvalue ([200, 400, 600]))
+//console.log(returnSecondvalue ([200, 400, 600]))
+
 
