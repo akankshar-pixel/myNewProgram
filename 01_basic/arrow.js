@@ -43,13 +43,25 @@ chai()
 
 
 
+//const addtwo = ( num1, num2)  =>{
+//return num1 + num2
 
-const addtwo = (num1, num2) => {
- return( num1+num2)
+////}
+
+//console.log(addtwo (20,22))
 
 
-}
-console.log(addtwo(4,7))
+
+
+
+//const addtwo1 = ( num1, num2)  =>   (num1 + num2)
+//console.log(addtwo1 (20,22))
+
+const addtwo1 = ( num1, num2)  =>  ({ username : "akanksha"})
+console.log(addtwo1 (20,22))
+
+
+
 
 
 
